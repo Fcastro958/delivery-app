@@ -5,9 +5,9 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'deliver_p2',
+  title: 'myDeliverApp',
 
-  projectId: 'memqohk0',
+  projectId: 'tc3rdwvj',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
